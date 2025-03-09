@@ -3,7 +3,7 @@
 ## 1. Overview
 This project focuses on developing a comprehensive monitoring solution for microservices applications deployed on **K3s**. By leveraging **Prometheus, Loki, Grafana, and Icinga**, we aim to collect metrics, manage logs, and generate alerts efficiently.
 
-## 1.2 Scope of Research 📌
+## 1.1 Scope of Research 📌
 The research scope includes:
 - 📊 Evaluating monitoring requirements for microservices systems, including metric collection, log management, and alerting.
 - 🛠 Deploying and configuring **Prometheus and Grafana** for metric collection and visualization, **Loki** for log management, and **Icinga** for system and service monitoring.
@@ -11,7 +11,7 @@ The research scope includes:
 - 🔍 Analyzing the strengths and weaknesses of each tool in cloud infrastructure and microservices monitoring.
 - 🚀 Proposing optimizations based on analysis and experimental results.
 
-## 1.3 Project Summary 📜
+## 1.2 Project Summary 📜
 This project aims to develop an effective cloud infrastructure monitoring solution using industry-standard tools. The combination of **Prometheus, Loki, Grafana, and Icinga** provides a **comprehensive** and **comparative** approach to monitoring. The study not only enhances observability and incident response but also provides insights into how each toolset performs. This enables users to select the **optimal** monitoring solution for their system based on real-world comparisons.
 
 ## 2. Cloud Infrastructure on AWS ☁️
