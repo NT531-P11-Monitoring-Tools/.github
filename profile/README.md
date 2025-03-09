@@ -97,7 +97,6 @@ A detailed evaluation of the monitoring system was conducted using the following
 ## 7. Project Documentation 📂
 All related documents and slides can be found in the following repository:
 - 📄 **Report document**: [Here](../materials/NT531.P11_NHOM01.pdf)
-- 🎤 **Presentation slides**: [Here](../materials/NT531.P11_NHOM01.pptx)
 
 ## 8. References 📚
 - 📜 [Prometheus Official Documentation](https://prometheus.io/docs/)
