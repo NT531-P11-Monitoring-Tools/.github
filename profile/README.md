@@ -1,4 +1,4 @@
-# Monitoring K3s Cluster using Prometheus, Loki, Grafana & Icinga
+# Monitoring Cloud Infrastructure using Prometheus & Loki with Grafana & Icinga
 
 ## 1. Overview
 This project focuses on developing a comprehensive monitoring solution for microservices applications deployed on **K3s**. By leveraging **Prometheus, Loki, Grafana, and Icinga**, we aim to collect metrics, manage logs, and generate alerts efficiently.
